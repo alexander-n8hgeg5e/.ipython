@@ -1,0 +1,4 @@
+*.vimbackup
+db/**
+history.sqlite
+static/**
